@@ -9,7 +9,7 @@ public class DB {
 	private final static String driver ="com.mysql.cj.jdbc.Driver";
 	private final static String db = "jdbc:mysql://localhost:3306/jdbc";
 	private final static String user="root";
-	private final static String pass ="zas333";
+	private final static String pass ="123456";
 	
 	private Connection cn;
 	private Statement st;
